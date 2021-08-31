@@ -1,0 +1,13 @@
+body {
+  margin: 15px auto;
+  background-color: ivory;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
